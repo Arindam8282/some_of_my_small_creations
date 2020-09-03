@@ -1,3 +1,3 @@
 # Arindam
 
-# Project created to learn Git
+## Project created to learn Git
